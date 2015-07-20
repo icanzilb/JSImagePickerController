@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "JSImagePickerController"
-  s.version          = "0.6"
+  s.version          = "0.6.1"
   s.summary          = "An photo/image picker controller that resembles the style of the image picker in iOS 8's messages app"
   s.description      = <<-DESC
 	A fork so I can import it as a pod in EventBlank
