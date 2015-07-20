@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.requires_arc = true
 
-  s.source_files = 'JSImagePickerController%20Source/**/*.{m,h}'
-  s.public_header_files = 'JSImagePickerController%20Source/**/*.h'
+  s.source_files = 'JSImagePickerController/*.{m,h}'
+  s.public_header_files = 'JSImagePickerController/*.h'
 
 end
